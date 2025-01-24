@@ -1,3 +1,4 @@
 user: root
 password: ExpenseApp@1
 hostname: mysql.devopslearning.fun
+mysql_host: mysql.devopslearning.fun
