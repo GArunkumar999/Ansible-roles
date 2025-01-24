@@ -1,0 +1,3 @@
+app_location: /usr/share/nginx/html/
+component: frontend
+location: /tmp/frontend.zip

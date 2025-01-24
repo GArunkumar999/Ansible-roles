@@ -1,3 +1,7 @@
 user: root
 password: ExpenseApp@1
 hostname: mysql.devopslearning.fun
+app_location: /app
+component: backend
+location: /tmp/backend.zip
+
